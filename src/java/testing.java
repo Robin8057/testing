@@ -17,14 +17,11 @@ public class testing {
          System.out.println("testing Jaya ........");
         
          System.out.println("robin sideeeeeeee ........");
-<<<<<<< HEAD
           System.out.println("again testing // ........");
            System.out.println("Robin gurgaon testing // ........");
-=======
          System.out.println("again testing // ........");
          
          System.out.println("shubham k lie  testing // ........");
->>>>>>> 50bfa33c10f36c7f72598bff5967310115e0dfee
         
    }
    
