@@ -12,17 +12,16 @@ public class testing {
     
    public void testing(){
    
-<<<<<<< HEAD
        System.out.println("testing ....... enneneneneeneneneneneenenenennennfjdnfjdfjdfhdbfhd");
-       
-       
-=======
-       System.out.println("testing ....... enneneneneeneneneneneenenenennen");
-       
        
         System.out.println("testing Jaya ........");
         
->>>>>>> 9f5e738f97ce7920e31d9e3ff71d29fd926cfd7a
+<<<<<<< HEAD
+         System.out.println("robin sideeeeeeee ........");
+=======
+          System.out.println("again testing // ........");
+>>>>>>> f2697240ddcfbbcce6fd90ee6a51fae6eef87caf
+        
    }
    
 }
