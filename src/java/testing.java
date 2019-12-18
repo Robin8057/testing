@@ -10,6 +10,9 @@
  */
 public class testing {
     
+   public void testing(){
    
+       System.out.println("testing ........");
+   }
     
 }
