@@ -12,15 +12,19 @@ public class testing {
     
    public void testing(){
    
-       System.out.println("testing ....... enneneneneeneneneneneenenenennennfjdnfjdfjdfhdbfhd");
+         System.out.println("testing ....... enneneneneeneneneneneenenenennennfjdnfjdfjdfhdbfhd");
        
-        System.out.println("testing Jaya ........");
+         System.out.println("testing Jaya ........");
         
-<<<<<<< HEAD
          System.out.println("robin sideeeeeeee ........");
-=======
+<<<<<<< HEAD
           System.out.println("again testing // ........");
->>>>>>> f2697240ddcfbbcce6fd90ee6a51fae6eef87caf
+           System.out.println("Robin gurgaon testing // ........");
+=======
+         System.out.println("again testing // ........");
+         
+         System.out.println("shubham k lie  testing // ........");
+>>>>>>> 50bfa33c10f36c7f72598bff5967310115e0dfee
         
    }
    
